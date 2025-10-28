@@ -35,6 +35,8 @@ jobs:
         run: pnpm install --frozen-lockfile
       - name: Build Next.js app
         run: pnpm run build
+      - name: Copy static web app config
+        run: cp staticwebapp.config.json out/
       - name: Check if deployment token exists
         id: check_token
         run: |

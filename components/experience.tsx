@@ -2,13 +2,35 @@ import { Briefcase, Calendar } from "lucide-react"
 
 const experiences = [
   {
-    company: "CodeBegun",
-    role: "Full Stack Developer Intern",
-    duration: "2024 - Present",
+    company: "Celebal Technologies",
+    role: "Node.js Developer Intern",
+    duration: "Aug-Sep 2025",
     description:
-      "Working on scalable MERN applications, AI integrations, DevOps tools, real-time API development, user analytics, and cloud deployment",
-    highlights: ["MERN Stack", "AI Integration", "DevOps", "Cloud Deployment"],
+      "Designed and implemented task manager APIs using Node.js and MySQL. Applied CI/CD pipelines and delivered bug-free features through unit testing.",
+    highlights: ["Node.js", "MongoDB", "APIs", "System Design", "Scalability"],
   },
+  {
+    company: "IIT Ropar",
+    role: "Summer Research Intern",
+    duration: "May-Jul 2025",
+    description: "Collaborated with senior developers to build code generator app with real-time updates. Integrated REST APIs, contributed to project planning, and conducted code reviews.",
+    highlights: ["MERN Stack", "REST APIs", "Typescript", "Team Collaboration", "Ollama"],
+  },
+  {
+    company: "Ceeras Pvt. Ltd.",
+    role: "Full Stack Intern",
+    duration: "Feb-May 2025",
+    description: "Developed a quiz platform with responsive UI/UX and scalable backend. Awarded Best Backend Intern for clean pull requests and performance optimization.",
+    highlights: ["Full Stack", "Quiz Platform", "UI/UX", "Performance Optimization", "Best Backend Intern"],
+  },
+  // {
+  //   company: "CodeBegun",
+  //   role: "Full Stack Developer Intern",
+  //   duration: "2024 - Present",
+  //   description:
+  //     "Working on scalable MERN applications, AI integrations, DevOps tools, real-time API development, user analytics, and cloud deployment",
+  //   highlights: ["MERN Stack", "AI Integration", "DevOps", "Cloud Deployment"],
+  // },
 ]
 
 export default function Experience() {

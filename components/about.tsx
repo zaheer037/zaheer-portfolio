@@ -12,11 +12,11 @@ export default function About() {
             <div className="space-y-6 text-lg text-foreground/80 leading-relaxed">
               <p>
                 A dedicated Full Stack Developer with hands-on experience in building high-performance applications
-                using MERN stack, AI integrations, and scalable backend services. Passionate about solving real-world
+                using <strong>MERN</strong> stack, AI integrations, and scalable backend services. Passionate about solving real-world
                 problems with clean architecture and user-centric design.
               </p>
               <p>
-                Currently working as a Full Stack Developer Intern at CodeBegun, where I'm involved in developing
+                Currently working as a Full Stack Developer Intern at <strong>Bodega</strong>, where I'm involved in developing
                 scalable MERN applications, integrating AI technologies, implementing DevOps tools, and deploying
                 applications to the cloud.
               </p>
@@ -29,7 +29,7 @@ export default function About() {
             <div className="grid grid-cols-2 gap-6">
               <div className="p-6 bg-card rounded-xl border border-border hover:border-primary/50 smooth-transition">
                 <div className="text-3xl font-bold gradient-text mb-2">5+</div>
-                <p className="text-foreground/60">Projects Completed</p>
+                <p className="text-foreground/60">Client Projects Completed</p>
               </div>
               <div className="p-6 bg-card rounded-xl border border-border hover:border-primary/50 smooth-transition">
                 <div className="text-3xl font-bold gradient-text mb-2">1+</div>

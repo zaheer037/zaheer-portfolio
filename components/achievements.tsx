@@ -10,12 +10,12 @@ const achievements = [
     icon: Trophy,
   },
   {
-    title: "3rd Place - Coding Competition at HCET",
+    title: "Finalist - SAP Hackfest ",
     icon: Trophy,
   },
   {
     title: "Developed production-grade applications during internship",
-    icon: Award,
+    icon: Award,  
   },
 ]
 

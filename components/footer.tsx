@@ -46,7 +46,7 @@ export default function Footer() {
                 <Github size={20} />
               </a>
               <a
-                href="https://linkedin.com/in/maseed-zaheer"
+                href="https://www.linkedin.com/in/zaheer-maseed/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 rounded-lg bg-secondary/50 hover:bg-primary/20 text-foreground hover:text-primary smooth-transition"
@@ -55,7 +55,7 @@ export default function Footer() {
                 <Linkedin size={20} />
               </a>
               <a
-                href="mailto:maseed@example.com"
+                href="mailto:jaheermaseed@gmail.com"
                 className="p-2 rounded-lg bg-secondary/50 hover:bg-primary/20 text-foreground hover:text-primary smooth-transition"
                 aria-label="Email"
               >

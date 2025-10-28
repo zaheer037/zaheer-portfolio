@@ -9,17 +9,17 @@ const skillCategories = [
   {
     title: "Backend",
     icon: Database,
-    skills: ["Node.js", "Express.js", "REST APIs", "Firebase", "MongoDB", "PostgreSQL"],
+    skills: ["Node.js", "Express.js", "REST APIs", "MongoDB", "PostgreSQL"],
   },
   {
     title: "AI & Cloud",
     icon: Brain,
-    skills: ["TensorFlow", "LSTM Music Generation", "AWS (S3, CloudFront)", "Docker", "CI/CD"],
+    skills: ["Machine Learning", "Scikit-learn", "AWS (EC2, S3)", "Docker", "CI/CD"],
   },
   {
-    title: "Tools & DevOps",
+    title: "Tools & Others",
     icon: Wrench,
-    skills: ["Git", "GitHub", "VS Code", "Jenkins", "Kubernetes (basic)"],
+    skills: ["Git", "GitHub", "VS Code", "Postman", "Website SEO (basic)"],
   },
 ]
 

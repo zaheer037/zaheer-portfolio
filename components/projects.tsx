@@ -6,25 +6,25 @@ import { ExternalLink, Github } from "lucide-react"
 
 const projects = [
   {
-    name: "AI Music Generator",
-    description: "Generated original music sequences based on user input using deep learning",
+    name: "CyberGaurd",
+    description: "Detects phishing websites based on URL using machine learning",
     techStack: ["LSTM", "TensorFlow", "Flask", "React"],
     status: "Live",
-    link: "https://your-deployment-link.com",
-    github: "https://github.com/zaheer037/ai-music-generator",
+    link: "https://cybergaurd-vksq.onrender.com/",
+    github: "https://github.com/zaheer037/phising-url-detection",
   },
   {
-    name: "CodeQuest - Stack Overflow Clone",
-    description: "A developer-centric Q&A platform with authentication and voting system",
+    name: "Student Job Tracker",
+    description: "A platform for students to track job applications and interviews",
     techStack: ["React", "Node.js", "MongoDB"],
-    link: "https://code-stack-clone.netlify.app",
-    github: "https://github.com/zaheer037/codequest",
+    link: "https://student-job-tracker-psi.vercel.app/",
+    github: "https://github.com/zaheer037/student-job-tracker",
   },
   {
-    name: "Amazon Clone App",
-    description: "E-commerce platform with authentication, shopping cart & checkout functionality",
-    techStack: ["MERN Stack", "Stripe", "Redux"],
-    github: "https://github.com/zaheer037/amazon-clone-app",
+    name: "Skill Exchange Web App",
+    description: "An interactive platform to share knowledge and skill with strangers",
+    techStack: ["Java", "HTML5", "CSS3","JS"],
+    github: "https://github.com/zaheer037/SkillExchange-Web",
   },
 ]
 
